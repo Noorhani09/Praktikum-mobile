@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kegiatan KSB ULM 2023</string>
+    <string name="novel_name">Nama anggota</string>
+    <string name="novel_date">Nomor Anggota</string>
+    <string name="novel_author">Jabatan</string>
+
+    <string name="description">Deskripsi</string>
+</resources>
